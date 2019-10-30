@@ -1,0 +1,7 @@
+import java.util.Scanner;
+
+public class BMICatergories {
+    public static void ain( String[] args) {
+        Scanner keyoard = new Scanner(System.in);
+    }
+}
