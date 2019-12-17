@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CoinFlip",
+            "request": "launch",
+            "mainClass": "CoinFlip",
+            "projectName": "javahard_3b7084c1"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - AgeMessages",
             "request": "launch",
             "mainClass": "AgeMessages",
